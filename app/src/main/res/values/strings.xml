@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SnapScript</string>
+
+    <string name="MainActivityInfo">Noredami testi, prasome prisijungti!</string>
+
+    <string name="MainPageFirstInput">Username</string>
+    <string name="MainPageSecondInput">Password</string>
+
+    <string name="LoginButtonText">Prisijungti</string>
+    <string name="SingupButtonText">Registruotis</string>
+
+    <string name="copy">By M4N745</string>
+
+    <string name="singupHint">
+        <b>Reikalavimai</b>\n\n
+        <b>Username:</b>\n
+        - nuo 3 iki 20 symbolių;\n
+        - mažosios ir didžiosios raidės;\n
+        - jokių specialių symbolių;\n
+        <b>Email:</b>\n
+        - nuo 10 iki 50 symbolių;\n
+        - mažosios ir didžiosios raidės;\n
+        - skaičiai;\n
+        - specialūs symboliai  (@._-);\n
+        <b>Password:</b>\n
+        - nuo 5 iki 20 symbolių;\n
+        - mažosios ir didžiosios raidės;\n
+        - skaičiai;\n
+        - specialūs symboliai (.!@_).\n
+    </string>
+
+    <string name="SearchError">Atsiprasome, siuo metu paieska isjungta!\nDekui uz supratinguma!</string>
+</resources>
